@@ -1,0 +1,9 @@
+{
+  "description": "Provides a link in the popup that will force the popup's window to close when the link is clicked",
+  "manifest_version": 2,
+  "name": "close-popup-on-link-clicked",
+  "version": "1.0",
+  "browser_action": {
+    "default_popup": "popup.html"
+  }
+}
